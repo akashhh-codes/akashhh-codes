@@ -5,14 +5,6 @@
 A passionate learner diving deep into data structures, machine learning algorithms, and intelligent systems. I enjoy turning raw data into meaningful insights and building models that solve real-world problems.
 
 ---
-### 🐍 My Contributions Grid
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akash-thakur0226/akash-thakur0226/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akash-thakur0226/akash-thakur0226/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/akash-thakur0226/akash-thakur0226/output/github-contribution-grid-snake.svg">
-</picture>
----
 ### 🛠️ Tech Stack & Tools
 
 *   **Languages:** Python, SQL, R, Bash
@@ -38,6 +30,16 @@ Here is a quick look at my open-source activity and languages layout:
 - 🌱 I’m learning deep learning architectures and advanced statistical modeling.
 - 💬 Ask me about Python data pipelines, machine learning basics, or tech gadgets.
 - ⚡ **Fun Fact:** I love analyzing data trends in sports and tracking tech innovations.
+
+---
+
+### 🐍 My Contributions Grid
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akash-thakur0226/akash-thakur0226/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akash-thakur0226/akash-thakur0226/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/akash-thakur0226/akash-thakur0226/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 

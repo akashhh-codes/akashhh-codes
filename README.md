@@ -18,8 +18,8 @@ A passionate learner diving deep into data structures, machine learning algorith
 Here is a quick look at my open-source activity and languages layout:
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=akash-thakur0226&show_icons=true&theme=radical" alt="Akash's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash-thakur0226&layout=compact&theme=radical" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=akashhh-codes&show_icons=true&theme=radical" alt="Akash's GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashhh-codes&layout=compact&theme=radical" alt="Top Languages" height="150" />
 </p>
 
 ---
@@ -36,9 +36,9 @@ Here is a quick look at my open-source activity and languages layout:
 ### 🐍 My Contributions Grid
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akash-thakur0226/akash-thakur0226/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akash-thakur0226/akash-thakur0226/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/akash-thakur0226/akash-thakur0226/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akashhh-codes/akashhh-codes/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akashhh-codes/akashhh-codes/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/akashhh-codes/akashhh-codes/output/github-contribution-grid-snake.svg">
 </picture>
 
 ---
@@ -54,4 +54,4 @@ Here is a quick look at my open-source activity and languages layout:
   </a>
 </p>
 
-![Visitor Counter](https://komarev.com/ghpvc/?username=yakash-thakur0226&color=blue&style=flat-square)
+![Visitor Counter](https://komarev.com/ghpvc/?username=yakashhh-codes&color=blue&style=flat-square)

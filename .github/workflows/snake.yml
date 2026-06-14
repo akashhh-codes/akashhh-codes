@@ -2,8 +2,8 @@ name: Generate Contribution Snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *"   # twice a day
-  workflow_dispatch:          # lets you run it manually from the Actions tab
+    - cron: "0 */12 * * *" # twice a day
+  workflow_dispatch: # lets you run it manually from the Actions tab
   push:
     branches:
       - main
@@ -13,9 +13,11 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+      pull-requests: write # Required for GitHub's updated token policy
+      
     steps:
       - name: Generate snake.svg
-        uses: Platane/snk/svg-only@v3
+        uses: Platane/snk/svg-only@v3.3.0
         with:
           github_user_name: akashhh-codes
           outputs: |

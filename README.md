@@ -134,20 +134,6 @@ I'm a third-year **Data Science & AI** student who builds machine-learning syste
 
 <br/>
 
-## 🏆 &nbsp;Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=akashhh-codes&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4" alt="Trophies" />
-</div>
-
-<br/>
-
-<!-- ░░ CONTRIBUTION SNAKE ░░  — requires the snake workflow (see notes) -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/akashhh-codes/akashhh-codes/output/snake.svg" alt="Contribution snake" width="98%" />
-</div>
-
-<br/>
 
 ## 🤝 &nbsp;Let's Connect
 

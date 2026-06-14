@@ -13,16 +13,17 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-      pull-requests: write # Required for GitHub's updated token policy
       
     steps:
+      # Step 1: Use the Docker container action (ignores local Node version rules)
       - name: Generate snake.svg
-        uses: Platane/snk/svg-only@v3.3.0
+        uses: Platane/snk@v3
         with:
           github_user_name: akashhh-codes
           outputs: |
             dist/snake.svg?color_snake=2DD4BF&color_dots=0D1117,1B2138,4C8DFF,8B6CFF,FFB454
 
+      # Step 2: Push the generated asset using the updated v5 version
       - name: Push snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v5
         with:

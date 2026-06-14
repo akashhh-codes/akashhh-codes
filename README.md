@@ -20,12 +20,14 @@
 
 <!-- ░░ QUICK LINKS ░░ -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=akashhh-codes&label=Profile+Views&color=2DD4BF&style=for-the-badge" alt="Profile views" />
+  <img src="https://komarev.com" alt="Profile views" />
   &nbsp;
-  <a href="https://linkedin.com/in/akashconnects"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:akash.chauhan@op.iitg.ac.in"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://YOUR-PORTFOLIO-URL.vercel.app"><img src="https://img.shields.io/badge/Portfolio-2DD4BF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://linkedin.com" target="_blank"><img src="https://shields.io" alt="LinkedIn" /></a>
+  <a href="mailto:akash.chauhan@op.iitg.ac.in"><img src="https://shields.io" alt="Email" /></a>
+  <a href="https://github.io" target="_blank"><img src="https://shields.io" alt="Portfolio" /></a>
+  <a href="https://githubusercontent.com" target="_blank"><img src="https://shields.io" alt="Resume" /></a>
 </div>
+
 
 <br/>
 

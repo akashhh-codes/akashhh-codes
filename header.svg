@@ -199,7 +199,7 @@
 
     <text x="66" y="200" font-size="66" font-weight="700" letter-spacing="-1.5" fill="url(#nameGrad)">Akash Chauhan</text>
 
-    <text x="70" y="242" font-size="21" fill="#AAB0C8">BSc (Hons.) Data Science &amp; AI &#183; IIT Guwahati</text>
+    <text x="70" y="242" font-size="21" fill="#AAB0C8"> Python Intern at Delphic Global &#183; BSc (Hons.) in DS/AI at IIT Guwahati</text>
 
     <!-- status pill -->
     <g transform="translate(70,268)">

@@ -24,7 +24,7 @@
   &nbsp;
   <a href="https://linkedin.com/in/akashconnects"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:akash.chauhan@op.iitg.ac.in"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://akashhh-codes.github.io/"><img src="https://img.shields.io/badge/Portfolio-2DD4BF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://akashhh.codes/"><img src="https://img.shields.io/badge/Portfolio-2DD4BF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://akashhh-codes.github.io/resume.pdf"><img src="https://img.shields.io/badge/Résumé-8B6CFF?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Résumé" /></a>
 </div>
 

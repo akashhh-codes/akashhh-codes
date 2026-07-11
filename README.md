@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F0C29,50:302B63,100:24243E&amp;height=230&amp;section=header&amp;text=Akash%20Chauhan&amp;fontSize=58&amp;fontColor=E9E4FF&amp;animation=fadeIn&amp;fontAlignY=32&amp;desc=Data%20Science%20%26%20Machine%20Learning%20%7C%20IIT%20Guwahati&amp;descAlignY=50&amp;descSize=17&amp;descColor=B8A9FF" width="100%"/>
+<img src="header.svg" width="100%" alt="Header" />
 
 <a href="https://www.akashhh.codes/">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=B8A9FF&center=true&vCenter=true&width=700&lines=Turning+raw+data+into+measurable+results.;BSc+(Hons.)+Data+Science+%26+AI+%40+IIT+Guwahati;Python+Intern+%40+Delphic+Global;Machine+Learning+%C2%B7+Computer+Vision+%C2%B7+NLP" alt="Typing SVG" />

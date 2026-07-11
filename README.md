@@ -1,213 +1,207 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" font-family="'Segoe UI', Helvetica, Arial, sans-serif">
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#080B16"/>
-      <stop offset="0.55" stop-color="#0B0F22"/>
-      <stop offset="1" stop-color="#0E1330"/>
-    </linearGradient>
-    <linearGradient id="nameGrad" x1="60" y1="0" x2="640" y2="0" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#8B6CFF"/>
-      <stop offset="0.5" stop-color="#4C8DFF"/>
-      <stop offset="1" stop-color="#2DD4BF"/>
-    </linearGradient>
-    <radialGradient id="glowV" cx="0.5" cy="0.5" r="0.5">
-      <stop offset="0" stop-color="#8B6CFF" stop-opacity="0.22"/>
-      <stop offset="1" stop-color="#8B6CFF" stop-opacity="0"/>
-    </radialGradient>
-    <radialGradient id="glowT" cx="0.5" cy="0.5" r="0.5">
-      <stop offset="0" stop-color="#2DD4BF" stop-opacity="0.20"/>
-      <stop offset="1" stop-color="#2DD4BF" stop-opacity="0"/>
-    </radialGradient>
-    <filter id="soft" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="2.2" result="b"/>
-      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
-    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
-      <path d="M40 0H0V40" fill="none" stroke="#1B2138" stroke-width="1" opacity="0.5"/>
-    </pattern>
-  </defs>
+<div align="center">
 
-  <rect width="1200" height="320" fill="url(#bg)"/>
-  <rect width="1200" height="320" fill="url(#grid)"/>
-  <ellipse cx="960" cy="150" rx="320" ry="240" fill="url(#glowV)"/>
-  <ellipse cx="1010" cy="240" rx="260" ry="200" fill="url(#glowT)"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=230&section=header&text=Akash%20Chauhan&fontSize=58&fontColor=E9E4FF&animation=fadeIn&fontAlignY=32&desc=Data%20Science%20%26%20Machine%20Learning%20%7C%20IIT%20Guwahati&descAlignY=50&descSize=17&descColor=B8A9FF" width="100%"/>
 
-  <!-- feature-space data points (right) -->
-  <g filter="url(#soft)">
-  <circle cx="1045.8" cy="194.1" r="2.2" fill="#8B6CFF" opacity="0.9">
-    <animate attributeName="cx" from="723.4" to="1045.8" dur="1.8s" begin="0.1s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.7 0.2 1"/>
-    <animate attributeName="cy" from="250.0" to="194.1" dur="1.8s" begin="0.1s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.7 0.2 1"/>
-    <animate attributeName="opacity" values="0.45;1;0.6;1;0.5" dur="6.3s" begin="2.33s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="887.9" cy="246.7" r="3.4" fill="#4C8DFF" opacity="0.9">
-    <animate attributeName="cx" from="902.8" to="887.9" dur="1.8s" begin="0.1s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.7 0.2 1"/>
-    <animate attributeName="cy" from="87.4" to="246.7" dur="1.8s" begin="0.1s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.7 0.2 1"/>
-    <animate attributeName="opacity" values="0.45;1;0.6;1;0.5" dur="4.2s" begin="0.24s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="901.8" cy="249.9" r="3.5" fill="#2DD4BF" opacity="0.9">
-    <animate attributeName="cx" from="1004.3" to="901.8" dur="1.8s" begin="0.1s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.7 0.2 1"/>
-    <animate attributeName="cy" from="285.4" to="249.9" dur="1.8s" begin="0.1s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.7 0.2 1"/>
-    <animate attributeName="opacity" values="0.45;1;0.6;1;0.5" dur="5.6s" begin="1.59s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="966.2" cy="151.6" r="2.3" fill="#FFB454" opacity="0.9">
-    <animate attributeName="cx" from="840.5" to="966.2" dur="1.8s" begin="0.1s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.7 0.2 1"/>
-    <animate attributeName="cy" from="60.4" to="151.6" dur="1.8s" begin="0.1s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.7 0.2 1"/>
-    <animate attributeName="opacity" values="0.45;1;0.6;1;0.5" dur="5.2s" begin="1.23s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="902.7" cy="269.2" r="3.4" fill="#8B6CFF" opacity="0.9">
-    <animate attributeName="cx" from="1009.9" to="902.7" dur="1.8s" begin="0.1s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.7 0.2 1"/>
-    <animate attributeName="cy" from="124.3" to="269.2" dur="1.8s" begin="0.1s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.7 0.2 1"/>
-    <animate attributeName="opacity" values="0.45;1;0.6;1;0.5" dur="4.2s" begin="0.25s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="871.3" cy="106.9" r="3.2" fill="#4C8DFF" opacity="0.9">
-    <animate attributeName="cx" from="957.9" to="871.3" dur="1.8s" begin="0.1s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.7 0.2 1"/>
-    <animate attributeName="cy" from="237.6" to="106.9" dur="1.8s" begin="0.1s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.7 0.2 1"/>
-    <animate attributeName="opacity" values="0.45;1;0.6;1;0.5" dur="7.7s" begin="3.69s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="992.3" cy="254.2" r="3.5" fill="#2DD4BF" opacity="0.9">
-    <animate attributeName="cx" from="1039.0" to="992.3" dur="1.8s" begin="0.1s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.7 0.2 1"/>
-    <animate attributeName="cy" from="88.3" to="254.2" dur="1.8s" begin="0.1s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.7 0.2 1"/>
-    <animate attributeName="opacity" values="0.45;1;0.6;1;0.5" dur="6.1s" begin="2.1s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="1006.0" cy="177.1" r="3.1" fill="#FFB454" opacity="0.9">
-    <animate attributeName="cx" from="1175.4" to="1006.0" dur="1.8s" begin="0.1s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.7 0.2 1"/>
-    <animate attributeName="cy" from="53.1" to="177.1" dur="1.8s" begin="0.1s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.7 0.2 1"/>
-    <animate attributeName="opacity" values="0.45;1;0.6;1;0.5" dur="7.0s" begin="3.03s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="943.1" cy="119.7" r="3.5" fill="#8B6CFF" opacity="0.9">
-    <animate attributeName="cx" from="1166.6" to="943.1" dur="1.8s" begin="0.1s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.7 0.2 1"/>
-    <animate attributeName="cy" from="41.7" to="119.7" dur="1.8s" begin="0.1s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.7 0.2 1"/>
-    <animate attributeName="opacity" values="0.45;1;0.6;1;0.5" dur="7.2s" begin="3.16s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="991.1" cy="231.7" r="2.2" fill="#4C8DFF" opacity="0.9">
-    <animate attributeName="cx" from="940.9" to="991.1" dur="1.8s" begin="0.1s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.7 0.2 1"/>
-    <animate attributeName="cy" from="243.1" to="231.7" dur="1.8s" begin="0.1s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.7 0.2 1"/>
-    <animate attributeName="opacity" values="0.45;1;0.6;1;0.5" dur="4.4s" begin="0.37s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="959.1" cy="212.5" r="3.7" fill="#2DD4BF" opacity="0.9">
-    <animate attributeName="cx" from="729.4" to="959.1" dur="1.8s" begin="0.1s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.7 0.2 1"/>
-    <animate attributeName="cy" from="216.4" to="212.5" dur="1.8s" begin="0.1s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.7 0.2 1"/>
-    <animate attributeName="opacity" values="0.45;1;0.6;1;0.5" dur="8.0s" begin="3.97s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="1002.0" cy="237.8" r="3.2" fill="#FFB454" opacity="0.9">
-    <animate attributeName="cx" from="1024.3" to="1002.0" dur="1.8s" begin="0.1s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.7 0.2 1"/>
-    <animate attributeName="cy" from="26.3" to="237.8" dur="1.8s" begin="0.1s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.7 0.2 1"/>
-    <animate attributeName="opacity" values="0.45;1;0.6;1;0.5" dur="4.7s" begin="0.67s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="876.9" cy="136.0" r="3.0" fill="#8B6CFF" opacity="0.9">
-    <animate attributeName="cx" from="839.4" to="876.9" dur="1.8s" begin="0.1s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.7 0.2 1"/>
-    <animate attributeName="cy" from="226.7" to="136.0" dur="1.8s" begin="0.1s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.7 0.2 1"/>
-    <animate attributeName="opacity" values="0.45;1;0.6;1;0.5" dur="7.7s" begin="3.67s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="1045.7" cy="222.8" r="4.1" fill="#4C8DFF" opacity="0.9">
-    <animate attributeName="cx" from="966.5" to="1045.7" dur="1.8s" begin="0.1s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.7 0.2 1"/>
-    <animate attributeName="cy" from="267.3" to="222.8" dur="1.8s" begin="0.1s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.7 0.2 1"/>
-    <animate attributeName="opacity" values="0.45;1;0.6;1;0.5" dur="7.5s" begin="3.46s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="992.3" cy="148.3" r="2.6" fill="#2DD4BF" opacity="0.9">
-    <animate attributeName="cx" from="1031.1" to="992.3" dur="1.8s" begin="0.1s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.7 0.2 1"/>
-    <animate attributeName="cy" from="126.5" to="148.3" dur="1.8s" begin="0.1s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.7 0.2 1"/>
-    <animate attributeName="opacity" values="0.45;1;0.6;1;0.5" dur="4.3s" begin="0.33s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="908.3" cy="161.1" r="2.7" fill="#FFB454" opacity="0.9">
-    <animate attributeName="cx" from="935.2" to="908.3" dur="1.8s" begin="0.1s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.7 0.2 1"/>
-    <animate attributeName="cy" from="185.0" to="161.1" dur="1.8s" begin="0.1s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.7 0.2 1"/>
-    <animate attributeName="opacity" values="0.45;1;0.6;1;0.5" dur="4.0s" begin="0.02s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="962.1" cy="195.5" r="4.2" fill="#8B6CFF" opacity="0.9">
-    <animate attributeName="cx" from="854.5" to="962.1" dur="1.8s" begin="0.1s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.7 0.2 1"/>
-    <animate attributeName="cy" from="55.1" to="195.5" dur="1.8s" begin="0.1s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.7 0.2 1"/>
-    <animate attributeName="opacity" values="0.45;1;0.6;1;0.5" dur="7.8s" begin="3.8s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="880.5" cy="226.9" r="4.3" fill="#4C8DFF" opacity="0.9">
-    <animate attributeName="cx" from="1136.3" to="880.5" dur="1.8s" begin="0.1s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.7 0.2 1"/>
-    <animate attributeName="cy" from="238.4" to="226.9" dur="1.8s" begin="0.1s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.7 0.2 1"/>
-    <animate attributeName="opacity" values="0.45;1;0.6;1;0.5" dur="7.2s" begin="3.19s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="979.7" cy="225.3" r="2.5" fill="#2DD4BF" opacity="0.9">
-    <animate attributeName="cx" from="933.5" to="979.7" dur="1.8s" begin="0.1s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.7 0.2 1"/>
-    <animate attributeName="cy" from="132.1" to="225.3" dur="1.8s" begin="0.1s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.7 0.2 1"/>
-    <animate attributeName="opacity" values="0.45;1;0.6;1;0.5" dur="7.9s" begin="3.94s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="1028.1" cy="231.5" r="2.4" fill="#FFB454" opacity="0.9">
-    <animate attributeName="cx" from="725.5" to="1028.1" dur="1.8s" begin="0.1s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.7 0.2 1"/>
-    <animate attributeName="cy" from="20.1" to="231.5" dur="1.8s" begin="0.1s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.7 0.2 1"/>
-    <animate attributeName="opacity" values="0.45;1;0.6;1;0.5" dur="4.4s" begin="0.41s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="999.9" cy="197.1" r="3.6" fill="#8B6CFF" opacity="0.9">
-    <animate attributeName="cx" from="800.9" to="999.9" dur="1.8s" begin="0.1s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.7 0.2 1"/>
-    <animate attributeName="cy" from="125.3" to="197.1" dur="1.8s" begin="0.1s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.7 0.2 1"/>
-    <animate attributeName="opacity" values="0.45;1;0.6;1;0.5" dur="7.8s" begin="3.82s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="874.2" cy="246.2" r="3.2" fill="#4C8DFF" opacity="0.9">
-    <animate attributeName="cx" from="1111.7" to="874.2" dur="1.8s" begin="0.1s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.7 0.2 1"/>
-    <animate attributeName="cy" from="298.1" to="246.2" dur="1.8s" begin="0.1s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.7 0.2 1"/>
-    <animate attributeName="opacity" values="0.45;1;0.6;1;0.5" dur="5.9s" begin="1.94s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="941.3" cy="176.7" r="3.8" fill="#2DD4BF" opacity="0.9">
-    <animate attributeName="cx" from="1059.1" to="941.3" dur="1.8s" begin="0.1s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.7 0.2 1"/>
-    <animate attributeName="cy" from="154.0" to="176.7" dur="1.8s" begin="0.1s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.7 0.2 1"/>
-    <animate attributeName="opacity" values="0.45;1;0.6;1;0.5" dur="6.1s" begin="2.07s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="950.5" cy="122.0" r="2.1" fill="#FFB454" opacity="0.9">
-    <animate attributeName="cx" from="771.1" to="950.5" dur="1.8s" begin="0.1s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.7 0.2 1"/>
-    <animate attributeName="cy" from="172.1" to="122.0" dur="1.8s" begin="0.1s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.7 0.2 1"/>
-    <animate attributeName="opacity" values="0.45;1;0.6;1;0.5" dur="6.1s" begin="2.11s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="915.5" cy="203.2" r="2.4" fill="#8B6CFF" opacity="0.9">
-    <animate attributeName="cx" from="826.6" to="915.5" dur="1.8s" begin="0.1s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.7 0.2 1"/>
-    <animate attributeName="cy" from="122.7" to="203.2" dur="1.8s" begin="0.1s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.7 0.2 1"/>
-    <animate attributeName="opacity" values="0.45;1;0.6;1;0.5" dur="7.1s" begin="3.09s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="847.9" cy="226.1" r="4.0" fill="#4C8DFF" opacity="0.9">
-    <animate attributeName="cx" from="1008.7" to="847.9" dur="1.8s" begin="0.1s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.7 0.2 1"/>
-    <animate attributeName="cy" from="191.7" to="226.1" dur="1.8s" begin="0.1s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.7 0.2 1"/>
-    <animate attributeName="opacity" values="0.45;1;0.6;1;0.5" dur="7.0s" begin="3.03s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="926.4" cy="82.6" r="3.3" fill="#2DD4BF" opacity="0.9">
-    <animate attributeName="cx" from="1058.8" to="926.4" dur="1.8s" begin="0.1s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.7 0.2 1"/>
-    <animate attributeName="cy" from="83.5" to="82.6" dur="1.8s" begin="0.1s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.7 0.2 1"/>
-    <animate attributeName="opacity" values="0.45;1;0.6;1;0.5" dur="5.4s" begin="1.42s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="965.6" cy="131.4" r="3.6" fill="#FFB454" opacity="0.9">
-    <animate attributeName="cx" from="929.0" to="965.6" dur="1.8s" begin="0.1s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.7 0.2 1"/>
-    <animate attributeName="cy" from="74.2" to="131.4" dur="1.8s" begin="0.1s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.7 0.2 1"/>
-    <animate attributeName="opacity" values="0.45;1;0.6;1;0.5" dur="5.4s" begin="1.38s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="941.3" cy="231.2" r="2.6" fill="#8B6CFF" opacity="0.9">
-    <animate attributeName="cx" from="876.8" to="941.3" dur="1.8s" begin="0.1s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.7 0.2 1"/>
-    <animate attributeName="cy" from="81.7" to="231.2" dur="1.8s" begin="0.1s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.7 0.2 1"/>
-    <animate attributeName="opacity" values="0.45;1;0.6;1;0.5" dur="4.8s" begin="0.79s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="836.0" cy="141.8" r="4.4" fill="#4C8DFF" opacity="0.9">
-    <animate attributeName="cx" from="996.0" to="836.0" dur="1.8s" begin="0.1s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.7 0.2 1"/>
-    <animate attributeName="cy" from="20.5" to="141.8" dur="1.8s" begin="0.1s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.7 0.2 1"/>
-    <animate attributeName="opacity" values="0.45;1;0.6;1;0.5" dur="5.4s" begin="1.38s" repeatCount="indefinite"/>
-  </circle>
-  </g>
+<a href="https://www.akashhh.codes/">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=B8A9FF&center=true&vCenter=true&width=700&lines=Turning+raw+data+into+measurable+results.;BSc+(Hons.)+Data+Science+%26+AI+%40+IIT+Guwahati;Python+Intern+%40+Delphic+Global;Machine+Learning+%C2%B7+Computer+Vision+%C2%B7+NLP" alt="Typing SVG" />
+</a>
 
-  <!-- text block (fade in) -->
-  <g opacity="0">
-    <animate attributeName="opacity" from="0" to="1" dur="0.9s" begin="0.2s" fill="freeze"/>
+<br/>
 
-    <text x="70" y="116" font-family="ui-monospace,'Cascadia Code','Courier New',monospace" font-size="15" letter-spacing="4" fill="#6E7693">DATA SCIENCE · MACHINE LEARNING · COMPUTER VISION</text>
+[![Portfolio](https://img.shields.io/badge/Portfolio-akashhh.codes-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117)](https://www.akashhh.codes/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-akashconnects-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://linkedin.com/in/akashconnects)
+[![Email](https://img.shields.io/badge/Email-akash.chauhan%40op.iitg.ac.in-22D3EE?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:akash.chauhan@op.iitg.ac.in)
+[![Résumé](https://img.shields.io/badge/Résumé-Download-8B5CF6?style=for-the-badge&labelColor=0D1117)](https://akashhh-codes.github.io/resume.pdf)
+[![GitHub](https://img.shields.io/badge/GitHub-akashhh--codes-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/akashhh-codes)
 
-    <line x1="70" y1="132" x2="70" y2="132" stroke="#2DD4BF" stroke-width="2">
-      <animate attributeName="x2" from="70" to="150" dur="0.7s" begin="0.6s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.7 0.2 1"/>
-    </line>
+<br/>
 
-    <text x="66" y="200" font-size="66" font-weight="700" letter-spacing="-1.5" fill="url(#nameGrad)">Akash Chauhan</text>
+![CGPA](https://img.shields.io/badge/CGPA-8.41%2F10-8B5CF6?style=for-the-badge&labelColor=0D1117)
+![Peak Accuracy](https://img.shields.io/badge/Peak%20Accuracy-94%25%2B-22D3EE?style=for-the-badge&labelColor=0D1117)
+![F1 Score](https://img.shields.io/badge/F1%20Score%20(Vision)-89.05%25-8B5CF6?style=for-the-badge&labelColor=0D1117)
+![Samples Engineered](https://img.shields.io/badge/Samples%20Engineered-6%2C000%2B-22D3EE?style=for-the-badge&labelColor=0D1117)
 
-    <text x="70" y="242" font-size="21" fill="#AAB0C8">BSc (Hons.) Data Science &amp; AI · IIT Guwahati</text>
+</div>
 
-    <!-- status pill -->
-    <g transform="translate(70,268)">
-      <rect x="0" y="0" rx="13" ry="13" width="214" height="27" fill="#101424" stroke="#232A45"/>
-      <circle cx="18" cy="13.5" r="4.5" fill="#2DD4BF">
-        <animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite"/>
-        <animate attributeName="r" values="4.5;5.5;4.5" dur="2s" repeatCount="indefinite"/>
-      </circle>
-      <text x="33" y="18" font-family="ui-monospace,'Courier New',monospace" font-size="12.5" fill="#AAB0C8">Open to internships</text>
-    </g>
-  </g>
-</svg>
+<br/>
+
+## 👋 About
+
+I build **machine-learning systems and backend automation tools** that find structure in messy, real-world data. I care less about the buzzwords and more about **the numbers a production system actually moves.**
+
+```yaml
+role:        Python Intern @ Delphic Global
+education:   BSc (Hons.) Data Science & AI, Indian Institute of Technology Guwahati
+focus:       Machine Learning · Computer Vision · NLP · Statistical Modelling
+currently:   🔭 Building automation pipelines & backend data workflows
+             🌱 Researching natural-scene classification at IIT Guwahati's SPIN Lab
+             💬 Ask me about feature engineering, GLCM/HSV texture descriptors, or TF-IDF pipelines
+             📫 Fastest way to reach me — email
+```
+
+<br/>
+
+## 🧰 The Toolkit
+
+<div align="center">
+
+**Programming**
+
+<img src="https://skillicons.dev/icons?i=py,c,cpp,java,html,css,js&theme=dark" />
+
+**Machine Learning, Data Science & Computer Vision**
+
+<img src="https://skillicons.dev/icons?i=sklearn,opencv,mysql&theme=dark" />
+
+<br/>
+
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+**Methods & Techniques**
+
+![NLP](https://img.shields.io/badge/-NLP-8B5CF6?style=for-the-badge)
+![Feature Engineering](https://img.shields.io/badge/-Feature%20Engineering-22D3EE?style=for-the-badge)
+![Statistical Analysis](https://img.shields.io/badge/-Statistical%20Analysis-8B5CF6?style=for-the-badge)
+![PCA](https://img.shields.io/badge/-PCA-22D3EE?style=for-the-badge)
+![t-SNE](https://img.shields.io/badge/-t--SNE-8B5CF6?style=for-the-badge)
+![Cross Validation](https://img.shields.io/badge/-Cross%20Validation-22D3EE?style=for-the-badge)
+![GLCM](https://img.shields.io/badge/-GLCM-8B5CF6?style=for-the-badge)
+![HSV Descriptors](https://img.shields.io/badge/-HSV%20Descriptors-22D3EE?style=for-the-badge)
+![EDA](https://img.shields.io/badge/-EDA-8B5CF6?style=for-the-badge)
+![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-22D3EE?style=for-the-badge)
+
+**Tools & Environment**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+
+</div>
+
+<br/>
+
+## 🧭 Where the Skills Were Forged
+
+### 🏢 Python Intern — Delphic Global
+`Jun 2026 — Present`
+
+- Developing and optimizing scalable **Python automation scripts** and robust backend data-processing routines.
+- Refactoring data-ingestion workflows to minimize execution latency and enhance codebase reliability.
+- Collaborating with engineering teams to integrate modules, write clean documentation, and maintain version control via Git.
+- Working across **JSON, CSV, modules, virtual environments, pip, logging, file handling**, and exception handling in a professional codebase.
+
+![Automation Target](https://img.shields.io/badge/Pipeline%20Automation%20Target-100%25-8B5CF6?style=flat-square&labelColor=0D1117) ![Efficiency](https://img.shields.io/badge/Script%20Execution-Optimizing-22D3EE?style=flat-square&labelColor=0D1117)
+
+---
+
+### 🔬 Research Intern, SPIN Lab — Indian Institute of Technology Guwahati
+`Nov 2025 — Apr 2026` · *Natural Scene Classification with ML & Computer Vision*
+
+- Scaled experimental datasets from **100 → 2,000** images (binary) and **600 → 6,000** images (Intel multi-class) for far more robust evaluation.
+- Designed feature-engineering pipelines from **statistical, texture, and colour descriptors** — entropy, edge density, GLCM (contrast, homogeneity, energy, correlation), and HSV colour features.
+- Interpreted the feature space with significance testing (**Mann–Whitney U, Kruskal–Wallis**), correlation analysis, PCA, and t-SNE.
+- Implemented and compared **Logistic Regression, SVM, and Random Forest** with 5-fold cross-validation, feature-importance, and misclassification analysis.
+
+| Metric | Result |
+|---|---|
+| Multi-class accuracy | 52.5% → **64.7%**  (▲ +12.2 pts) |
+| Binary accuracy | **88.5%** |
+| Binary F1-score | **89.05%** |
+
+**[↗ View Repository](https://github.com/akashhh-codes/natural-image-statistics)**
+
+<br/>
+
+## 🚀 Models That Left the Notebook
+
+End-to-end builds across NLP, tabular regression, applied physics, and secure software — each judged by a number, not a vibe.
+
+| # | Project | Result | Stack | Links |
+|---|---|---|---|---|
+| 01 | **[Fake News Detection System](https://github.com/akashhh-codes/fake-news-detector)** — end-to-end detector trained on 6,000+ real-world articles; text cleaning, stopword removal, TF-IDF, comparing LR / Naïve Bayes / Random Forest | 94%+ accuracy | `Python` `NLP` `scikit-learn` `NLTK` `TF-IDF` `Streamlit` | [Code](https://github.com/akashhh-codes/fake-news-detector) · [Live Demo](https://fake-news-detector-app-by-akash.streamlit.app/) |
+| 02 | **[Secure Password Manager](https://github.com/akashhh-codes)** — full-featured manager built from scratch: secure login, password hashing & encryption, strength validation, search & update, modular architecture | secure by design | `Python` `Encryption` `JSON` `Logging` | [Code](https://github.com/akashhh-codes) |
+| 03 | **[E-commerce Sales Prediction](https://github.com/akashhh-codes/Ecommerce-Sales-Prediction)** — full cycle of cleaning, feature engineering & EDA on real transactional data; RF wins on non-linear patterns | RF > LR | `Python` `Pandas` `scikit-learn` `EDA` | [Code](https://github.com/akashhh-codes/Ecommerce-Sales-Prediction) |
+| 04 | **[Lattice Stiffness Prediction](https://github.com/akashhh-codes/lattice-ml-project)** — predicting lattice-structure stiffness from geometry using a synthetic dataset & feature-importance analysis | MSE evaluated | `Python` `scikit-learn` `Matplotlib` | [Code](https://github.com/akashhh-codes/lattice-ml-project) |
+| 05 | **[Board Game Mechanics AI](https://github.com/akashhh-codes/boardgame-mechanics-ai)** — AI-assisted system matching game ideas to mechanics via web scraping + semantic similarity | semantic recommendation | `Python` `NLP` `Web Scraping` `BeautifulSoup` | [Code](https://github.com/akashhh-codes/boardgame-mechanics-ai) · [Live Demo](https://boardgame-mechanics-ai-akashhh-codes.streamlit.app/) |
+
+<div align="center">
+
+<table>
+<tr>
+<td><img src="https://github-readme-stats.vercel.app/api/pin/?username=akashhh-codes&repo=fake-news-detector&theme=tokyonight&hide_border=true&bg_color=0D1117" /></td>
+<td><img src="https://github-readme-stats.vercel.app/api/pin/?username=akashhh-codes&repo=Ecommerce-Sales-Prediction&theme=tokyonight&hide_border=true&bg_color=0D1117" /></td>
+</tr>
+<tr>
+<td><img src="https://github-readme-stats.vercel.app/api/pin/?username=akashhh-codes&repo=lattice-ml-project&theme=tokyonight&hide_border=true&bg_color=0D1117" /></td>
+<td><img src="https://github-readme-stats.vercel.app/api/pin/?username=akashhh-codes&repo=boardgame-mechanics-ai&theme=tokyonight&hide_border=true&bg_color=0D1117" /></td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=akashhh-codes&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=B8A9FF&icon_color=22D3EE&count_private=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=akashhh-codes&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=22D3EE" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashhh-codes&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=B8A9FF&langs_count=8" height="180"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=akashhh-codes&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=B8A9FF&line=8B5CF6&point=22D3EE" width="95%"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=akashhh-codes&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" width="95%"/>
+
+</div>
+
+<br/>
+
+## 🎓 The Training Set
+
+| Degree | Institution | Period | Result |
+|---|---|---|---|
+| BSc (Hons.) Data Science & AI | Indian Institute of Technology, Guwahati | 2023 — Present (Final Year) | CGPA 8.41 / 10 |
+| Diploma, Electrical Engineering | Board of Technical Education, U.P. | 2021 — 2024 | First Division · with Distinction |
+| Senior Secondary (CBSE) | Alpine Public School, Khurja | 2021 | 72.6% |
+| Secondary (CBSE) | Alpine Public School, Khurja | 2019 | 80.8% |
+
+**Coursework:** Linear Algebra · Calculus · Optimization · Probability · Statistics · Machine Learning · Deep Learning · Computer Vision · Time Series Forecasting · Recommender Systems · Data Mining · Data Visualization · RDBMS
+
+<br/>
+
+## 🏅 Verified & Certified
+
+- **[Data Analytics Job Simulation](https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_699f15d76377601b93beb272_1772097533894_completion_certificate.pdf)** — Deloitte Australia · Forage — *Feb 2026*
+- **AI with Machine Learning — Workshop** — IIT Roorkee — *Feb 2025*
+- **[Trustworthy Generative AI](https://www.coursera.org/account/accomplishments/verify/GJ676STWHN8D)** — Vanderbilt University · Coursera — *May 2024*
+- **Generative AI for Executives & Business Leaders** — IBM — *May 2024*
+- **[Ethical Hacking — AI Chatbots](https://www.udemy.com/certificate/UC-c620e6ef-448c-4f64-9dae-aa8d6e18d726/)** — Udemy — *May 2024*
+
+<br/>
+
+<div align="center">
+
+## 🤝 Let's Build Something Together
+
+Open to Python development, data-science, and machine-learning roles. Email is the fastest way to reach me.
+
+[![Email](https://img.shields.io/badge/Email%20me-akash.chauhan%40op.iitg.ac.in-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:akash.chauhan@op.iitg.ac.in)
+[![Portfolio](https://img.shields.io/badge/Portfolio-akashhh.codes-22D3EE?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117)](https://www.akashhh.codes/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-akashconnects-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://linkedin.com/in/akashconnects)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=akashhh-codes&color=8B5CF6&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/akashhh-codes?label=FOLLOWERS&style=for-the-badge&color=22D3EE&labelColor=0D1117)
+
+<sub>© 2026 Akash Chauhan · Python Intern @ Delphic Global · BSc (Hons.) Data Science & AI, IIT Guwahati</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243E,50:302B63,100:0F0C29&height=120&section=footer" width="100%"/>
+
+</div>

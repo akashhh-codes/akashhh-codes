@@ -191,7 +191,7 @@
     <animate attributeName="opacity" from="0" to="1" dur="0.9s" begin="0.2s" fill="freeze"/>
 
     <text x="70" y="116" font-family="ui-monospace,'Cascadia Code','Courier New',monospace"
-          font-size="15" letter-spacing="4" fill="#6E7693">DATA SCIENCE &#183; MACHINE LEARNING &#183; COMPUTER VISION</text>
+          font-size="15" letter-spacing="4" fill="#6E7693">PYTHON &#183; AI/MACHINE LEARNING &#183; DATA SCIENCE</text>
 
     <line x1="70" y1="132" x2="70" y2="132" stroke="#2DD4BF" stroke-width="2">
       <animate attributeName="x2" from="70" to="150" dur="0.7s" begin="0.6s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.7 0.2 1"/>
@@ -208,7 +208,7 @@
         <animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite"/>
         <animate attributeName="r" values="4.5;5.5;4.5" dur="2s" repeatCount="indefinite"/>
       </circle>
-      <text x="33" y="18" font-family="ui-monospace,'Courier New',monospace" font-size="12.5" fill="#AAB0C8">Open to internships</text>
+      <text x="33" y="18" font-family="ui-monospace,'Courier New',monospace" font-size="12.5" fill="#AAB0C8">Open to Full time Roles</text>
     </g>
   </g>
 </svg>

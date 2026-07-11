@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=230&section=header&text=Akash%20Chauhan&fontSize=58&fontColor=E9E4FF&animation=fadeIn&fontAlignY=32&desc=Data%20Science%20%26%20Machine%20Learning%20%7C%20IIT%20Guwahati&descAlignY=50&descSize=17&descColor=B8A9FF" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F0C29,50:302B63,100:24243E&amp;height=230&amp;section=header&amp;text=Akash%20Chauhan&amp;fontSize=58&amp;fontColor=E9E4FF&amp;animation=fadeIn&amp;fontAlignY=32&amp;desc=Data%20Science%20%26%20Machine%20Learning%20%7C%20IIT%20Guwahati&amp;descAlignY=50&amp;descSize=17&amp;descColor=B8A9FF" width="100%"/>
 
 <a href="https://www.akashhh.codes/">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=B8A9FF&center=true&vCenter=true&width=700&lines=Turning+raw+data+into+measurable+results.;BSc+(Hons.)+Data+Science+%26+AI+%40+IIT+Guwahati;Python+Intern+%40+Delphic+Global;Machine+Learning+%C2%B7+Computer+Vision+%C2%B7+NLP" alt="Typing SVG" />
@@ -132,12 +132,12 @@ End-to-end builds across NLP, tabular regression, applied physics, and secure so
 
 <table>
 <tr>
-<td><img src="https://github-readme-stats.vercel.app/api/pin/?username=akashhh-codes&repo=fake-news-detector&theme=tokyonight&hide_border=true&bg_color=0D1117" /></td>
-<td><img src="https://github-readme-stats.vercel.app/api/pin/?username=akashhh-codes&repo=Ecommerce-Sales-Prediction&theme=tokyonight&hide_border=true&bg_color=0D1117" /></td>
+<td><img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=akashhh-codes&repo=fake-news-detector&theme=tokyonight&hide_border=true&bg_color=0D1117" /></td>
+<td><img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=akashhh-codes&repo=Ecommerce-Sales-Prediction&theme=tokyonight&hide_border=true&bg_color=0D1117" /></td>
 </tr>
 <tr>
-<td><img src="https://github-readme-stats.vercel.app/api/pin/?username=akashhh-codes&repo=lattice-ml-project&theme=tokyonight&hide_border=true&bg_color=0D1117" /></td>
-<td><img src="https://github-readme-stats.vercel.app/api/pin/?username=akashhh-codes&repo=boardgame-mechanics-ai&theme=tokyonight&hide_border=true&bg_color=0D1117" /></td>
+<td><img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=akashhh-codes&repo=lattice-ml-project&theme=tokyonight&hide_border=true&bg_color=0D1117" /></td>
+<td><img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=akashhh-codes&repo=boardgame-mechanics-ai&theme=tokyonight&hide_border=true&bg_color=0D1117" /></td>
 </tr>
 </table>
 
@@ -149,10 +149,10 @@ End-to-end builds across NLP, tabular regression, applied physics, and secure so
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=akashhh-codes&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=B8A9FF&icon_color=22D3EE&count_private=true" height="165"/>
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=akashhh-codes&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=B8A9FF&icon_color=22D3EE&count_private=true" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=akashhh-codes&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=22D3EE" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashhh-codes&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=B8A9FF&langs_count=8" height="180"/>
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=akashhh-codes&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=B8A9FF&langs_count=8" height="180"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=akashhh-codes&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=B8A9FF&line=8B5CF6&point=22D3EE" width="95%"/>
 
@@ -202,6 +202,6 @@ Open to Python development, data-science, and machine-learning roles. Email is t
 
 <sub>© 2026 Akash Chauhan · Python Intern @ Delphic Global · BSc (Hons.) Data Science & AI, IIT Guwahati</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243E,50:302B63,100:0F0C29&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:24243E,50:302B63,100:0F0C29&amp;height=120&amp;section=footer" width="100%"/>
 
 </div>

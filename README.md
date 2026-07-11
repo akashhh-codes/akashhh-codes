@@ -178,9 +178,9 @@ End-to-end builds across NLP, tabular regression, applied physics, and secure so
 ## 🏅 Verified & Certified
 
 - **[Data Analytics Job Simulation](https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_699f15d76377601b93beb272_1772097533894_completion_certificate.pdf)** — Deloitte Australia · Forage — *Feb 2026*
-- **AI with Machine Learning — Workshop** — IIT Roorkee — *Feb 2025*
+- **[AI with Machine Learning — Workshop](https://www.linkedin.com/in/akashconnects/overlay/Certifications/946368520/treasury/?profileId=ACoAAD2wJmgBOv3iTZ81B_UqdnnOeTxszMZZjzg)** — IIT Roorkee — *Feb 2025*
 - **[Trustworthy Generative AI](https://www.coursera.org/account/accomplishments/verify/GJ676STWHN8D)** — Vanderbilt University · Coursera — *May 2024*
-- **Generative AI for Executives & Business Leaders** — IBM — *May 2024*
+- **[Generative AI for Executives & Business Leaders](https://www.coursera.org/account/accomplishments/verify/GJ676STWHN8D)** — IBM — *May 2024*
 - **[Ethical Hacking — AI Chatbots](https://www.udemy.com/certificate/UC-c620e6ef-448c-4f64-9dae-aa8d6e18d726/)** — Udemy — *May 2024*
 
 <br/>

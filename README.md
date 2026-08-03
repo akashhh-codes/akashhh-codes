@@ -25,18 +25,15 @@
 
 <br/>
 
-## 👋 About
+## About Me
 
-I build **machine-learning systems and backend automation tools** that find structure in messy, real-world data. I care less about the buzzwords and more about **the numbers a production system actually moves.**
+* 🎓 Pursuing a **B.Sc. (Hons.) in Data Science and Artificial Intelligence at IIT Guwahati**
+* 📊 Skilled in **Python, SQL, Statistics, Data Analysis, and Machine Learning**
+* 💻 Focused on **Data Science, Machine Learning, Generative AI, and Agentic AI**
+* 🤖 Exploring **LLMs, RAG, AI Agents, and intelligent automation**
+* 🛠️ Building **end-to-end data and AI projects** with a focus on practical, real-world applications
+* 🚀 Continuously learning, experimenting, and solving challenging problems through **projects and internships**
 
-```yaml
-role:        Python Intern @ Delphic Global
-education:   BSc (Hons.) Data Science & AI, Indian Institute of Technology Guwahati
-focus:       Machine Learning · Computer Vision · NLP · Statistical Modelling
-currently:   🔭 Building automation pipelines & backend data workflows
-             🌱 Researching natural-scene classification at IIT Guwahati's SPIN Lab
-             💬 Ask me about feature engineering, GLCM/HSV texture descriptors, or TF-IDF pipelines
-             📫 Fastest way to reach me — email
 ```
 
 <br/>

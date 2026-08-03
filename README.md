@@ -34,8 +34,6 @@
 * 🛠️ Building **end-to-end data and AI projects** with a focus on practical, real-world applications
 * 🚀 Continuously learning, experimenting, and solving challenging problems through **projects and internships**
 
-```
-
 <br/>
 
 ## 🧰 The Toolkit

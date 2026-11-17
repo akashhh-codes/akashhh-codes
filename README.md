@@ -82,7 +82,7 @@
 ## 🧭 Where the Skills Were Forged
 
 ### 🏢 Python Intern — Delphic Global
-`Jun 2026 — Present`
+`Jun 2026 — Aug 2026`
 
 - Developing and optimizing scalable **Python automation scripts** and robust backend data-processing routines.
 - Refactoring data-ingestion workflows to minimize execution latency and enhance codebase reliability.
@@ -161,7 +161,7 @@ End-to-end builds across NLP, tabular regression, applied physics, and secure so
 
 | Degree | Institution | Period | Result |
 |---|---|---|---|
-| BSc (Hons.) Data Science & AI | Indian Institute of Technology, Guwahati | 2023 — Present (Final Year) | CGPA 8.41 / 10 |
+| BSc (Hons.) Data Science & AI | Indian Institute of Technology, Guwahati | 2023 — Present (Final Year) | CGPA 8.33 / 10 |
 | Diploma, Electrical Engineering | Board of Technical Education, U.P. | 2021 — 2024 | First Division · with Distinction |
 | Senior Secondary (CBSE) | Alpine Public School, Khurja | 2021 | 72.6% |
 | Secondary (CBSE) | Alpine Public School, Khurja | 2019 | 80.8% |
